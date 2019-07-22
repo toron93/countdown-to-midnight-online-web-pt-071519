@@ -8,5 +8,5 @@ def countdown (seconds_to_midnight)
 
        "HAPPY NEW YEAR!"
 end
-  > time = Time.now
-  > sleep 2.seconds until Time.now > time + 10.seconds
+  time = Time.now
+   sleep 2.seconds until Time.now > time + 10.seconds
